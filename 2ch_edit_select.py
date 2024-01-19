@@ -39,6 +39,7 @@ def main():
 
     root = tk.Tk()
     root.withdraw()  # メインウィンドウを非表示にする
+    root.geometry('800x600')
 
     # 行抽出キーワードと終了キーワードの入力
     start_keyword = simpledialog.askstring("キーワード入力", "抽出する行のキーワードを入力してください:")
@@ -54,7 +55,7 @@ def main():
 
     # 抽出結果をリストボックスに表示
     root.deiconify()  # メインウィンドウを表示する
-    listbox = tk.Listbox(root, selectmode='multiple')
+    listbox = tk.Listbox(root, selectmode='multiple', height=20, width=100)
     for line in lines:
         listbox.insert(tk.END, line)
     listbox.pack()
