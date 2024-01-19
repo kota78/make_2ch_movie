@@ -2,17 +2,17 @@ import csv
 import tkinter as tk
 from tkinter import simpledialog, messagebox
 
-def extract_content(text_lines, start_keyword, end_keyword):
+def extract_content(text_lines):
     extracted_data = []
     current_content = []
     recording = False
 
     for line in text_lines:
-        if end_keyword in line:
+        if '新着レスの表示' in line:
             if len(current_content) > 1:
                 current_content.pop()
             break
-        if start_keyword in line:
+        if 'それでも動く名無し' in line:
             if recording:
                 extracted_data.append("\n".join(current_content).strip())
                 current_content = []
@@ -34,29 +34,18 @@ def save_to_csv(selected_lines):
     messagebox.showinfo("保存完了", f"CSVファイルが {file_path} に保存されました。")
 
 def main():
-    root = tk.Tk()
-    root.withdraw()  # メインウィンドウを非表示にする
-
-    # 行抽出キーワードと終了キーワードの入力
-    start_keyword = simpledialog.askstring("キーワード入力", "抽出する行のキーワードを入力してください:")
-    end_keyword = simpledialog.askstring("キーワード入力", "終了する行のキーワードを入力してください:")
-
-    # テキスト入力
     input_text = simpledialog.askstring("テキスト入力", "テキストを入力してください:")
     if not input_text:
         return
 
-    # 文字抽出
-    lines = extract_content(input_text.splitlines(), start_keyword, end_keyword)
+    lines = extract_content(input_text.splitlines())
 
-    # 抽出結果をリストボックスに表示
-    root.deiconify()  # メインウィンドウを表示する
+    root = tk.Tk()
     listbox = tk.Listbox(root, selectmode='multiple')
     for line in lines:
         listbox.insert(tk.END, line)
     listbox.pack()
 
-    # CSVに保存するボタン
     button = tk.Button(root, text="CSVに保存", command=lambda: save_to_csv([listbox.get(i) for i in listbox.curselection()]))
     button.pack()
 
