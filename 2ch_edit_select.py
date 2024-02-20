@@ -1,6 +1,7 @@
 import csv
 import tkinter as tk
 from tkinter import simpledialog, messagebox
+import re
 
 def extract_content(text_lines, start_keyword, end_keyword, progress_label):
     extracted_data = []
@@ -9,6 +10,8 @@ def extract_content(text_lines, start_keyword, end_keyword, progress_label):
     count = 0  # カウント用変数の初期化
 
     for line in text_lines:
+        line = re.sub(r'>>.*?(\n|$)', '', line)
+
         if end_keyword in line:
             if len(current_content) > 1:
                 current_content.pop()
@@ -28,7 +31,6 @@ def extract_content(text_lines, start_keyword, end_keyword, progress_label):
         extracted_data.append("\n".join(current_content).strip())
 
     return extracted_data
-
 
 
 def save_to_csv(lines, items):
