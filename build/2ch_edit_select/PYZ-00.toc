@@ -1,430 +1,233 @@
-('C:\\Users\\堺\u3000'
- '洸太\\Desktop\\make_2ch_movie\\build\\2ch_edit_select\\PYZ-00.pyz',
+('/Users/ko_cha78/Desktop/yukkuri/build/2ch_edit_select/PYZ-00.pyz',
  [('_compat_pickle',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/_compat_pickle.py',
    'PYMODULE'),
   ('_compression',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compression.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/_compression.py',
    'PYMODULE'),
   ('_py_abc',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
-   'PYMODULE'),
-  ('_pydatetime',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydatetime.py',
-   'PYMODULE'),
-  ('_pydecimal',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydecimal.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/_py_abc.py',
    'PYMODULE'),
   ('_strptime',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_strptime.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/_strptime.py',
    'PYMODULE'),
   ('_threading_local',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_threading_local.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/_threading_local.py',
    'PYMODULE'),
   ('argparse',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\argparse.py',
-   'PYMODULE'),
-  ('ast',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ast.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/argparse.py',
    'PYMODULE'),
   ('base64',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\base64.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/base64.py',
    'PYMODULE'),
   ('bisect',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bisect.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/bisect.py',
    'PYMODULE'),
-  ('bz2',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bz2.py',
-   'PYMODULE'),
+  ('bz2', '/Users/ko_cha78/opt/miniconda3/lib/python3.7/bz2.py', 'PYMODULE'),
   ('calendar',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\calendar.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/calendar.py',
    'PYMODULE'),
   ('contextlib',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextlib.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/contextlib.py',
    'PYMODULE'),
-  ('contextvars',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextvars.py',
-   'PYMODULE'),
-  ('copy',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\copy.py',
-   'PYMODULE'),
-  ('csv',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\csv.py',
-   'PYMODULE'),
-  ('dataclasses',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py',
-   'PYMODULE'),
+  ('copy', '/Users/ko_cha78/opt/miniconda3/lib/python3.7/copy.py', 'PYMODULE'),
+  ('csv', '/Users/ko_cha78/opt/miniconda3/lib/python3.7/csv.py', 'PYMODULE'),
   ('datetime',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\datetime.py',
-   'PYMODULE'),
-  ('decimal',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\decimal.py',
-   'PYMODULE'),
-  ('dis',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dis.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/datetime.py',
    'PYMODULE'),
   ('email',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\__init__.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/__init__.py',
    'PYMODULE'),
   ('email._encoded_words',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_encoded_words.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/_encoded_words.py',
    'PYMODULE'),
   ('email._header_value_parser',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_header_value_parser.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/_header_value_parser.py',
    'PYMODULE'),
   ('email._parseaddr',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_parseaddr.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/_parseaddr.py',
    'PYMODULE'),
   ('email._policybase',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_policybase.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/_policybase.py',
    'PYMODULE'),
   ('email.base64mime',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\base64mime.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/base64mime.py',
    'PYMODULE'),
   ('email.charset',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\charset.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/charset.py',
    'PYMODULE'),
   ('email.contentmanager',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\contentmanager.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/contentmanager.py',
    'PYMODULE'),
   ('email.encoders',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\encoders.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/encoders.py',
    'PYMODULE'),
   ('email.errors',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\errors.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/errors.py',
    'PYMODULE'),
   ('email.feedparser',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\feedparser.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/feedparser.py',
    'PYMODULE'),
   ('email.generator',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\generator.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/generator.py',
    'PYMODULE'),
   ('email.header',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\header.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/header.py',
    'PYMODULE'),
   ('email.headerregistry',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\headerregistry.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/headerregistry.py',
    'PYMODULE'),
   ('email.iterators',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\iterators.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/iterators.py',
    'PYMODULE'),
   ('email.message',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\message.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/message.py',
    'PYMODULE'),
   ('email.parser',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\parser.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/parser.py',
    'PYMODULE'),
   ('email.policy',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\policy.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/policy.py',
    'PYMODULE'),
   ('email.quoprimime',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\quoprimime.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/quoprimime.py',
    'PYMODULE'),
   ('email.utils',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\utils.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/email/utils.py',
    'PYMODULE'),
-  ('fnmatch',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fnmatch.py',
-   'PYMODULE'),
-  ('fractions',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fractions.py',
+  ('ftplib',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/ftplib.py',
    'PYMODULE'),
   ('getopt',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getopt.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/getpass.py',
    'PYMODULE'),
   ('gettext',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gettext.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/gettext.py',
    'PYMODULE'),
-  ('gzip',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gzip.py',
-   'PYMODULE'),
+  ('gzip', '/Users/ko_cha78/opt/miniconda3/lib/python3.7/gzip.py', 'PYMODULE'),
   ('hashlib',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hashlib.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/hashlib.py',
+   'PYMODULE'),
+  ('http',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/http/__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/http/client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/http/cookiejar.py',
    'PYMODULE'),
   ('importlib',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\__init__.py',
-   'PYMODULE'),
-  ('importlib._abc',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_abc.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/importlib/__init__.py',
    'PYMODULE'),
   ('importlib._bootstrap',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/importlib/_bootstrap.py',
    'PYMODULE'),
   ('importlib._bootstrap_external',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/importlib/_bootstrap_external.py',
    'PYMODULE'),
   ('importlib.abc',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\abc.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/importlib/abc.py',
    'PYMODULE'),
   ('importlib.machinery',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\machinery.py',
-   'PYMODULE'),
-  ('importlib.metadata',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\__init__.py',
-   'PYMODULE'),
-  ('importlib.metadata._adapters',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
-   'PYMODULE'),
-  ('importlib.metadata._collections',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_collections.py',
-   'PYMODULE'),
-  ('importlib.metadata._functools',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_functools.py',
-   'PYMODULE'),
-  ('importlib.metadata._itertools',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
-   'PYMODULE'),
-  ('importlib.metadata._meta',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_meta.py',
-   'PYMODULE'),
-  ('importlib.metadata._text',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_text.py',
-   'PYMODULE'),
-  ('importlib.readers',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\readers.py',
-   'PYMODULE'),
-  ('importlib.resources',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\__init__.py',
-   'PYMODULE'),
-  ('importlib.resources._adapters',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_adapters.py',
-   'PYMODULE'),
-  ('importlib.resources._common',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_common.py',
-   'PYMODULE'),
-  ('importlib.resources._itertools',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_itertools.py',
-   'PYMODULE'),
-  ('importlib.resources._legacy',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_legacy.py',
-   'PYMODULE'),
-  ('importlib.resources.abc',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\abc.py',
-   'PYMODULE'),
-  ('importlib.resources.readers',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\readers.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/importlib/machinery.py',
    'PYMODULE'),
   ('importlib.util',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\util.py',
-   'PYMODULE'),
-  ('inspect',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\inspect.py',
-   'PYMODULE'),
-  ('ipaddress',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ipaddress.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/importlib/util.py',
    'PYMODULE'),
   ('logging',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/logging/__init__.py',
    'PYMODULE'),
-  ('lzma',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\lzma.py',
+  ('lzma', '/Users/ko_cha78/opt/miniconda3/lib/python3.7/lzma.py', 'PYMODULE'),
+  ('mimetypes',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/mimetypes.py',
    'PYMODULE'),
-  ('numbers',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\numbers.py',
+  ('netrc',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/netrc.py',
    'PYMODULE'),
-  ('opcode',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\opcode.py',
+  ('nturl2path',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/nturl2path.py',
    'PYMODULE'),
-  ('pathlib',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py',
+  ('optparse',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/optparse.py',
    'PYMODULE'),
   ('pickle',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickle.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/pickle.py',
    'PYMODULE'),
   ('pprint',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/pprint.py',
    'PYMODULE'),
   ('py_compile',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/py_compile.py',
    'PYMODULE'),
   ('quopri',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\quopri.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/quopri.py',
    'PYMODULE'),
   ('random',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\random.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/random.py',
    'PYMODULE'),
   ('selectors',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\selectors.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/shlex.py',
    'PYMODULE'),
   ('shutil',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shutil.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/shutil.py',
    'PYMODULE'),
   ('signal',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\signal.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/signal.py',
    'PYMODULE'),
   ('socket',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socket.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/socket.py',
    'PYMODULE'),
-  ('statistics',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\statistics.py',
-   'PYMODULE'),
+  ('ssl', '/Users/ko_cha78/opt/miniconda3/lib/python3.7/ssl.py', 'PYMODULE'),
   ('string',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\string.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/string.py',
    'PYMODULE'),
   ('stringprep',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/stringprep.py',
    'PYMODULE'),
   ('subprocess',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\subprocess.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/subprocess.py',
    'PYMODULE'),
   ('tarfile',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tarfile.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/tarfile.py',
    'PYMODULE'),
   ('tempfile',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tempfile.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/tempfile.py',
    'PYMODULE'),
   ('textwrap',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\textwrap.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/textwrap.py',
    'PYMODULE'),
   ('threading',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/threading.py',
    'PYMODULE'),
   ('tkinter',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\__init__.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/tkinter/__init__.py',
    'PYMODULE'),
   ('tkinter.commondialog',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\commondialog.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/tkinter/commondialog.py',
    'PYMODULE'),
   ('tkinter.constants',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\constants.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/tkinter/constants.py',
    'PYMODULE'),
   ('tkinter.messagebox',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\messagebox.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/tkinter/messagebox.py',
    'PYMODULE'),
   ('tkinter.simpledialog',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\simpledialog.py',
-   'PYMODULE'),
-  ('token',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\token.py',
-   'PYMODULE'),
-  ('tokenize',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tokenize.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/tkinter/simpledialog.py',
    'PYMODULE'),
   ('tracemalloc',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/tracemalloc.py',
    'PYMODULE'),
   ('typing',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\typing.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/typing.py',
    'PYMODULE'),
-  ('urllib',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\__init__.py',
-   'PYMODULE'),
-  ('urllib.parse',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\parse.py',
-   'PYMODULE'),
+  ('uu', '/Users/ko_cha78/opt/miniconda3/lib/python3.7/uu.py', 'PYMODULE'),
   ('zipfile',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\__init__.py',
-   'PYMODULE'),
-  ('zipfile._path',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\__init__.py',
-   'PYMODULE'),
-  ('zipfile._path.glob',
-   'C:\\Users\\堺\u3000'
-   '洸太\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   '/Users/ko_cha78/opt/miniconda3/lib/python3.7/zipfile.py',
    'PYMODULE')])
